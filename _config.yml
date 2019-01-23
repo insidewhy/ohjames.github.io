@@ -1,7 +1,7 @@
 # Site settings
-title: Your awesome title
+title: chilon.net blog
 description: > # this means to ignore newlines until "baseurl:"
-  A blog mainly about Anime, Film, Music, TV and programming in Ruby, JavaScript, C++ and Scala.
+  A blog about the technical exploits of chilon.net
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.chilon.net" # the base hostname & protocol for your site
 twitter_username: ChilonDotNet
