@@ -19,4 +19,4 @@ The user-interface and yaml files may suck but when it comes to the coding, I re
 
 I foresee having hundreds of hours wasted by Unity being annoying but that will still be less time than it'll take to write the four items I described above. I'm still not sure which will be more fun, or less painful. If I eventually give up on Unity I will have just spent time learning a technology that becomes useless to me, and I'm only 60% sure going with Unity is the right option. This could be a very costly mistake.
 
-We've also decided to call this game Super Fighting Team for now but that will almost definitely change. Our name [chilon.net](http://chilon.net) works okay for a web development studio but it's not great for a game development company, so we're naming our game development section: Super Frolic Team.
+We've also decided to call this game Super Fighting Team for now but that will almost definitely change. Our name [chilon.net](http://chilon.net) works okay for a web development studio but it's not great for a game development company, so our team name for this project is: Super Frolic Team.
