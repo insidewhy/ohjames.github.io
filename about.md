@@ -12,6 +12,6 @@ We are also occasionally developing Android software using kotlin and working on
 
 We embrace new technologies and approaches, we have open source projects using flutter, rkt, WebGL, rust, c++14 and c. We also frequently contribute back to high-profile (and low-profile!) open source projects.
 
-We have worked with Goldsmiths College Interactive Research Studio, The Press Association, Bulb, WeAreEverywhere, TicketText, ClickOn Media and Dectech. See less
+We have worked with Goldsmiths College Interactive Research Studio, The Press Association, Bulb, WeAreEverywhere, TicketText, ClickOn Media and Dectech.
 
 We are currently working on a new project and are not available for consulting work until July 2019.
