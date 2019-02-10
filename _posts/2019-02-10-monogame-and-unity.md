@@ -6,7 +6,7 @@ categories: MonoGame Unity SuperFightingTeam
 ---
 
 I love MonoGame, but I'd love it even more if there was a good library (or few libraries) that provided these things:
-- Ray-casting of polygon shapes into a scene of components, including spatial division (e.g. quad trees) to reduce the number of collision tests.
+- Ray-casting of polygon shapes into a scene of components, including spatial subdivision (e.g. quad trees) to reduce the number of collision tests.
 - A Component/Object/Scene system for structuring code.
 - A dependency injection system to allow data/code that can potentially live across many scenes to be injected into Objects/Components.
 - A 2d tilemap system and editor with support for polygon colliders.
