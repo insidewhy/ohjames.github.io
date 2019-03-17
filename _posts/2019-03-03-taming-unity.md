@@ -8,7 +8,7 @@ categories: C# Unity SuperFightingTeam
 Three weeks later, I'm pretty happy we switched to Unity for this project. There are several parts of Unity that I don't use but thankfully Unity itself can be modified with code and you can substitute most components out with your own code.
 
 ## Animation
-Unity provides a pretty nice visual method of building animations but it involves much mouse clicking and waving around of the mouse. While it provides a lot of power to non-coders, it is also fiddly and time-consuming to use.
+Unity provides a pretty nice visual method of building animations but it involves a lot of mouse action and hundreds of mouse clicks to achieve simple tasks. As a programmer you are used to automating all repetitive tasks, it's easy to look down on such time-consuming actions even if they provide a lot of power to non-coders.
 
 I built a custom animator driven by `ScriptableObject`s that describe each character's animations and then I use an editor script to generate those `ScriptableObject` instances from a `yaml` file. The animator code uses a co-routine which yields the next animation for each `Update()` allowing a declarative style of describing animations that provides the same benefits of Unity's animator work-flow only via code.
 
@@ -42,7 +42,7 @@ To get around this I also use `yaml` and an editor script:
       animation: 0,1,0@2 l,2-7@4
 ```
 
-The names in the `yaml` pertain to two spritesheets, `anna-standing.png` and `anna-dashing.png`. The pivot for each sprite within the sheet is assumed to be the center but the `overrides` section above can be used to adjust the offset for specific sprites. The script that builds the sprites scans the images and automatically determines how to split it up into several sprites based on the standard character sprite size.
+The names in the `yaml` pertain to two spritesheets, `anna-standing.png` and `anna-dashing.png`. The pivot for each sprite within the sheet is assumed to be the center but the `pivots` section above can be used to adjust the offset for specific sprites. The script that builds the sprites scans the images and automatically determines how to split it up into several sprites based on the standard character sprite size.
 
 ## Moving on
 
