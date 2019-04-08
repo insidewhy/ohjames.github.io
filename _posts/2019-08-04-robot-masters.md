@@ -5,7 +5,7 @@ date:   2019-08-04 16:10:00
 categories: megaman capcom robot-masters
 ---
 
-To make a good video game you need to play a lot of games. Megaman games are some of the best games on the planet. So I'm gonna beat every single Robot Master from every single Megaman game and rank them all here.
+To make a good video game you need to play a lot of games. Megaman games are some of the best games on the planet. So I'm gonna beat every single Robot Master from every single Megaman game and rank them all here. I'm also beating every boss with the *megabuster alone*, no master weapons allowed. In games where you can choose between Bass, Megaman and Protoman I'm choosing Megaman. Despite taking double damage, I find the fights as Protoman way easier. The mobility the slide provides allows you to easily evade things that can be challenging to evade as Megaman.
 
 I'll start with Megaman 10 (but I'll collect all these articles together at the end):
 
